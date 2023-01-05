@@ -50,3 +50,9 @@ PHP 8
 
 
 AMP = **A**pache + **M**ySQL + **P**HP
+
+Linux = **L**AMP
+
+Windows = **W**AMP
+
+MAC = **M**AMP
