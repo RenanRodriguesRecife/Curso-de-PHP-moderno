@@ -46,3 +46,7 @@ PHP 8
 - Enumerations
 - Readonly properties
 - Fibers
+
+
+
+AMP = **A**pache + **M**ySQL + **P**HP
